@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iai:home|Door43 (iai)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iai|d43-iai repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iai/archive/master.zip|d43-iai.zip]]
+
+**Recent Changes**
+{{changes>ns = iai}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iai|Ethnologue data]]
+
